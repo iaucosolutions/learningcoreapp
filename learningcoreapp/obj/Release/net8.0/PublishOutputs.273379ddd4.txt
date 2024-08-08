@@ -1,0 +1,7 @@
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\learningcoreapp.exe
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\appsettings.Development.json
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\appsettings.json
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\learningcoreapp.dll
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\learningcoreapp.deps.json
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\learningcoreapp.runtimeconfig.json
+E:\C# Technical Session\AZ-204 Application\TempDemo\learningcoreapp\bin\Publish\learningcoreapp.pdb
